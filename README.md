@@ -1,11 +1,12 @@
 
-### <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeopDev&count_bg=%2379C83D&title_bg=%23B22F8E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### </div>
-### Hi there 👋
+### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeopDev&count_bg=%2379C83D&title_bg=%23B22F8E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### 안녕하세요.👋
+### [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeop1.dev@gmail.com)](mailto:yeop1.dev@gmail.com)
+
 <!--
 **YeopDev/YeopDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YeopDev)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
